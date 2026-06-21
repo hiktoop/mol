@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>urn:uuid:mol-opds-library-hiktoop</id>
   <title>mol - 我的书库</title>
-  <updated>2026-06-21T02:28:16Z</updated>
+  <updated>2026-06-21T02:45:43Z</updated>
   <author>
     <name>hiktoop</name>
   </author>
@@ -19,5 +19,18 @@
     <link rel="http://opds-spec.org/image" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/acquisition" href="https://github.com/hiktoop/mol/releases/download/bl/default.epub" type="application/epub+zip"/>
+  </entry>
+  <entry>
+    <title>粉红色柔软的学习者：迷人的大脑可塑造性</title>
+    <id>urn:uuid:livewired</id>
+    <updated>2026-06-21T00:00:00Z</updated>
+    <author>
+      <name>大卫·伊格曼</name>
+    </author>
+    <summary>神经科学家大卫·伊格曼带你深入大脑的动态重塑机制，揭示人类终身学习与适应的生物学奥秘。原著：Livewired: The Inside Story of the Ever-Changing Brain。</summary>
+    <dcterms:language>zh</dcterms:language>
+    <link rel="http://opds-spec.org/image" href="https://hiktoop.github.io/mol/covers/livewired.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://hiktoop.github.io/mol/covers/livewired.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/hiktoop/mol/releases/download/bl/Livewired.epub" type="application/epub+zip"/>
   </entry>
 </feed>
