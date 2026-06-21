@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
+  <id>urn:uuid:mol-opds-library-hiktoop</id>
+  <title>mol - 我的书库</title>
+  <updated>2026-06-21T02:10:11Z</updated>
+  <author>
+    <name>hiktoop</name>
+  </author>
+  <link rel="self" href="https://hiktoop.github.io/mol/catalog.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>巨人的方法</title>
+    <id>urn:uuid:juren-de-fangfa</id>
+    <updated>2026-06-21T00:00:00Z</updated>
+    <author>
+      <name>蒂姆·费里斯</name>
+    </author>
+    <summary>11个精心设计的问题，132位巨人的解答，学习巨人们的思维和习惯。《巨人的工具》作者蒂姆·费里斯新作。</summary>
+    <dcterms:language>zh</dcterms:language>
+    <link rel="http://opds-spec.org/image" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
+  </entry>
+</feed>
