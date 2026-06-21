@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>urn:uuid:mol-opds-library-hiktoop</id>
   <title>mol - 我的书库</title>
-  <updated>2026-06-21T02:10:11Z</updated>
+  <updated>2026-06-21T02:16:07Z</updated>
   <author>
     <name>hiktoop</name>
   </author>
@@ -18,5 +18,6 @@
     <dcterms:language>zh</dcterms:language>
     <link rel="http://opds-spec.org/image" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
     <link rel="http://opds-spec.org/image/thumbnail" href="https://hiktoop.github.io/mol/covers/juren-de-fangfa.jpg" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/acquisition" href="https://github.com/hiktoop/mol/releases/download/bl/default.epub" type="application/epub+zip"/>
   </entry>
 </feed>
