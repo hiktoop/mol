@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:dcterms="http://purl.org/dc/terms/">
   <id>urn:uuid:mol-opds-library-hiktoop</id>
   <title>mol - 我的书库</title>
-  <updated>2026-06-21T02:16:07Z</updated>
+  <updated>2026-06-21T02:28:16Z</updated>
   <author>
     <name>hiktoop</name>
   </author>
